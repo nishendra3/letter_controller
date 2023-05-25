@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/nishi/work/create3_ws/build/letter_controller",
+        "/home/nishi/work/create3_ws/install/letter_controller/lib/python3.10/site-packages",
+        "/home/nishi/work/create3_ws/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/nishi/work/create3_ws/build/letter_controller",
+        "/home/nishi/work/create3_ws/install/letter_controller/lib/python3.10/site-packages",
+        "/home/nishi/work/create3_ws/install/irobot_create_common_bringup/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
